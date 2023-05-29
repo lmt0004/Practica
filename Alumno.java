@@ -18,6 +18,7 @@ public class Alumno {
      private String nombre, dni;
      /**
       * Indica el telefono y la edad del alumno.
+      indicamos los cambios
       */
     private int telefono,edad;
     /**
